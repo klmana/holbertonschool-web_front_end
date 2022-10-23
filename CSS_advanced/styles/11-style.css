@@ -44,8 +44,9 @@ a{
 .visually-hidden{display: none;}
 .section-header{text-align: var(--section-header-align);}
 .card-category{color: var(--color-primary);}
-.section-tagline {
+
+.section-tagline{
     font-family: var(--font-family-title);
-    text-transform: var(--section-tagline-transform);
     font-weight: var(--font-weight-bold);
-}
+    text-transform: var(--section-tagline-transform);
+  }
